@@ -462,7 +462,7 @@ L<LWP::UserAgent>
 
 =head1 AUTHOR
 
-Fabrice Gabolde <fga@cpan.org>
+Fabrice Gabolde <fga@cpan.org>, Sujit Sali <sujitsali@cpan.org>
 
 =head1 COPYRIGHT AND LICENSE
 
